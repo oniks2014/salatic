@@ -613,7 +613,10 @@ line-height: 19px;
 .owl-next{
     float: right;
 }
-
+.owl-nav .owl-prev{
+    background: none;
+    outline: none;
+}
 .header__nav
 
 .owl-dots {
