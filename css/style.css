@@ -617,7 +617,13 @@ line-height: 19px;
     background: none;
     outline: none;
 }
-.header__nav
+
+.owl-theme .owl-controls .owl-nav [class*=owl-]{
+    background: none;
+    outline: none;
+}
+
+}
 
 .owl-dots {
   text-align: center;
