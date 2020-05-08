@@ -13,7 +13,7 @@ $("html, body").animate({ scrollTop: 0 }, 600);
 return false;
 });
 	
-  $(".owl-carousel").owlCarousel({
+  $(".owl-carousel2").owlCarousel2({
     margin:10,
     loop:true,
     items:1,
