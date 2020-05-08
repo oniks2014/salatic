@@ -613,7 +613,7 @@ line-height: 19px;
 .owl-next{
     float: right;
 }
-.owl-nav .owl-prev{
+.owl-next .owl-prev{
     background: none;
     outline: none;
 }
